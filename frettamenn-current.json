@@ -1,0 +1,7387 @@
+{
+  "2026-06-01": {
+    "weekday_name": "MÁN",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Anna Lilja Þórisdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0900-1945",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "lex",
+          "shift": "1515-2215",
+          "row_index": 0,
+          "overridden": true
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0700-1630",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": "2330-0700",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": "0635-1505",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": "0700-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "þoj",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": true
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0830-2000",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0900-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-02": {
+    "weekday_name": "ÞRI",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Anna Lilja Þórisdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0900-1945",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": "0830-1700",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "lex",
+          "shift": "1515-2215",
+          "row_index": 0,
+          "overridden": true
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0700-1630",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": "0700-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "þoj",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": true
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0830-2000",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0900-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-03": {
+    "weekday_name": "MIÐ",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Anna Lilja Þórisdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0900-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": "0830-1700",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0830-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": "1515-2215",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0700-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "þoj",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": true
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0830-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "aom",
+          "shift": "0830-2000",
+          "row_index": 3,
+          "overridden": true
+        }
+      ]
+    }
+  },
+  "2026-06-04": {
+    "weekday_name": "FIM",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "ema",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": true
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0900-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": "0830-1700",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0830-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": "1515-2215",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0700-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "þoj",
+          "shift": "0830-1515",
+          "row_index": 3,
+          "overridden": true
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "aom",
+          "shift": "0830-2000",
+          "row_index": 3,
+          "overridden": true
+        }
+      ]
+    }
+  },
+  "2026-06-05": {
+    "weekday_name": "FÖS",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Anna Lilja Þórisdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": "0830-1745",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Mist Grönvold",
+          "shift": "1200-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": "sbh",
+          "shift": "1900-2300",
+          "row_index": 0,
+          "overridden": true
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2300-0815",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": "0700-1815",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0830-1315",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-06": {
+    "weekday_name": "LAU",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Anna Lilja Þórisdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0900-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Mist Grönvold",
+          "shift": "1030-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0730-1900",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": "sbh",
+          "shift": "1900-2215",
+          "row_index": 0,
+          "overridden": true
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2145-0815",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": "0730-1830",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-07": {
+    "weekday_name": "SUN",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Anna Lilja Þórisdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0900-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Mist Grönvold",
+          "shift": "1030-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0730-1900",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": "sbh",
+          "shift": "1900-2215",
+          "row_index": 0,
+          "overridden": true
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2145-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": "0730-1830",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-08": {
+    "weekday_name": "MÁN",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Anna Lilja Þórisdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0900-1945",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": "1515-2215",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0700-1630",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2330-0700",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": "0635-1505",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0700-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0830-1515",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "aom",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": true
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0830-2000",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0900-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-09": {
+    "weekday_name": "ÞRI",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Anna Lilja Þórisdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0900-1945",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "hai",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": true
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": "1515-2215",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0700-1630",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Markús Þórhallsson",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0700-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0830-1515",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "aom",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": true
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0830-2000",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0900-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-10": {
+    "weekday_name": "MIÐ",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Anna Lilja Þórisdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0900-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "bm",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": true
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0830-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "gah",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": true
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": "1515-2215",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": "sbh",
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": true
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Markús Þórhallsson",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": "0700-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0830-1515",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "aom",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": true
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0830-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0830-2000",
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-11": {
+    "weekday_name": "FIM",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Anna Lilja Þórisdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0900-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "hai",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": true
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0830-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "gah",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": true
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": "1515-2215",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": "sbh",
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": true
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Markús Þórhallsson",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": "0700-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0830-1515",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "aom",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": true
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0830-2000",
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-12": {
+    "weekday_name": "FÖS",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "hks",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": "0830-1745",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": "1200-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2300",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "gþs",
+          "shift": "2300-0815",
+          "row_index": 1,
+          "overridden": true
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0700-1815",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0830-1315",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "aom",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": true
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-13": {
+    "weekday_name": "LAU",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "lex",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0900-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": "1030-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0730-1900",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2215",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Markús Þórhallsson",
+          "shift": "2145-0815",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0730-1830",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-14": {
+    "weekday_name": "SUN",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "aom",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0900-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": "1030-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0730-1900",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2215",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Markús Þórhallsson",
+          "shift": "2145-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Ásrún Brynja Ingvarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0730-1830",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-15": {
+    "weekday_name": "MÁN",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1945",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "x2",
+          "shift": "1515-2215",
+          "row_index": 0,
+          "overridden": true
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0700-1630",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": "sbh",
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": true
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": "2330-0700",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "0635-1505",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0700-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "skr",
+          "shift": "0830-2000",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-16": {
+    "weekday_name": "ÞRI",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1945",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "1515-2215",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0700-1630",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "HHD",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": true
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": "sbh",
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": true
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0700-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0830-1515",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "skr",
+          "shift": "0830-2000",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-17": {
+    "weekday_name": "MIÐ",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": "0900-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0830-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "1515-2215",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0700-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0830-1515",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": "0830-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0830-2000",
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-18": {
+    "weekday_name": "FIM",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": "0900-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0830-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "1515-2215",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0700-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0830-1515",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0830-2000",
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-19": {
+    "weekday_name": "FÖS",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": "0830-1745",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "1200-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2300",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2300-0815",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0700-1815",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": "0830-1315",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-20": {
+    "weekday_name": "LAU",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "1030-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0730-1900",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2215",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2145-0815",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0730-1830",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-21": {
+    "weekday_name": "SUN",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "1030-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0730-1900",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2215",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Markús Þórhallsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2145-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0730-1830",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-22": {
+    "weekday_name": "MÁN",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Ástrós Signýjardóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "ema",
+          "shift": "0900-1945",
+          "row_index": 4,
+          "overridden": true
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "spegill",
+          "shift": "0830-1700",
+          "row_index": 3,
+          "overridden": true
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": "1515-2215",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": "0700-1630",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2330-0700",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0635-1505",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0700-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Stígur Helgason",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0830-2000",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": "0900-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-23": {
+    "weekday_name": "ÞRI",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Ástrós Signýjardóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "ema",
+          "shift": "0900-1945",
+          "row_index": 4,
+          "overridden": true
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "spegill",
+          "shift": "0830-1700",
+          "row_index": 3,
+          "overridden": true
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": "1515-2215",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": "0700-1630",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0700-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Stígur Helgason",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0830-2000",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": "0900-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-24": {
+    "weekday_name": "MIÐ",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Ástrós Signýjardóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0830-1700",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": "0830-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "1515-2215",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0700-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Stígur Helgason",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0830-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0830-2000",
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-25": {
+    "weekday_name": "FIM",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Ástrós Signýjardóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Hallgrímur Indriðason",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": "0830-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "1515-2215",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0700-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Stígur Helgason",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0830-2000",
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-26": {
+    "weekday_name": "FÖS",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Ástrós Signýjardóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "bpj",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0830-1745",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": "1200-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": "sbh",
+          "shift": "1900-2300",
+          "row_index": 0,
+          "overridden": true
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2300-0815",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0700-1815",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0830-1315",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Stígur Helgason",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "mge",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": true
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-27": {
+    "weekday_name": "LAU",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Ástrós Signýjardóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0900-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "bpj",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": "1030-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0730-1900",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": "sbh",
+          "shift": "1900-2215",
+          "row_index": 0,
+          "overridden": true
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "bdf",
+          "shift": "2145-0815",
+          "row_index": 1,
+          "overridden": true
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0730-1830",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "mge",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": true
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-28": {
+    "weekday_name": "SUN",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Ástrós Signýjardóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Eva Björk Benediktsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0900-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "bpj",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": "1030-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Malín Eyfjörð Ægisdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0730-1900",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": "sbh",
+          "shift": "1900-2215",
+          "row_index": 0,
+          "overridden": true
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2145-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0730-1830",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Ásta Hlín Magnúsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "mge",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": true
+        },
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-29": {
+    "weekday_name": "MÁN",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0900-1945",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "óra",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "1515-2215",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "malín",
+          "shift": "0700-1630",
+          "row_index": 2,
+          "overridden": true
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": "2330-0700",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0635-1505",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": "0700-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0830-1515",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0830-2000",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0900-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-06-30": {
+    "weekday_name": "ÞRI",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0900-1945",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "dhe",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "1515-2215",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "0830-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": "0700-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0830-1515",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0830-2000",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0900-1800",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-07-01": {
+    "weekday_name": "MIÐ",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0900-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "1515-2215",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": "sbh",
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": true
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0700-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0830-1515",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": "0830-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": "0830-2000",
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-07-02": {
+    "weekday_name": "FIM",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": "0900-1945",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0900-1800",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": "1000-1930",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": "0830-1800",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ingibjörg Sara Guðmundsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": "1515-2215",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": "sbh",
+          "shift": "1900-2400",
+          "row_index": 0,
+          "overridden": true
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2330-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": "0700-1800",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0830-1815",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": "0830-1515",
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": "0830-2000",
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-07-03": {
+    "weekday_name": "FÖS",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": "0900-1945",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": "0830-1715",
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "dhe",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": "0630-1410",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "1200-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": "0700-1630",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0830-1800",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": "0830-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2300",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2300-0815",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": "0635-1405",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": "0700-1815",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": "0830-1315",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": "0700-1500",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-07-04": {
+    "weekday_name": "LAU",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0900-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "dhe",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "1030-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0730-1900",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2215",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2145-0815",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": "0730-1830",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  },
+  "2026-07-05": {
+    "weekday_name": "SUN",
+    "sections": {
+      "Innlend fréttavakt": [
+        {
+          "name": "Sigrún Þuríður Runólfsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alma Ómarsdóttir",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hólmfríður Dagný Friðjónsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Davíðsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Ragnar Jón Hrólfsson",
+          "shift": "0900-1800",
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Þórdís Arnljótsdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Alþingi": [
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Jóhanna Vigdís Hjaltadóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Erlendar": [
+        {
+          "name": "Ólöf Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "dhe",
+          "shift": "0900-1945",
+          "row_index": 1,
+          "overridden": true
+        },
+        {
+          "name": "Bjarni Pétur Jónsson",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Dagný Hulda Erlendsdóttir",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Morgunvefur": [
+        {
+          "name": "Þorgerður Anna Gunnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Vefur": [
+        {
+          "name": "Ragnhildur Helgadóttir",
+          "shift": "1030-2030",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Ásrún Aldís Hreinsdóttir",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Guðmundur Atli Hlynsson",
+          "shift": "0730-1900",
+          "row_index": 3,
+          "overridden": false
+        },
+        {
+          "name": "Mist Grönvold",
+          "shift": null,
+          "row_index": 4,
+          "overridden": false
+        },
+        {
+          "name": "Iðunn Andrésdóttir",
+          "shift": null,
+          "row_index": 5,
+          "overridden": false
+        }
+      ],
+      "Kvöldvefur": [
+        {
+          "name": null,
+          "shift": "1900-2215",
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Næturvakt": [
+        {
+          "name": "Grétar Þór Sigurðsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Brynja Dögg Friðriksdóttir",
+          "shift": "2145-0700",
+          "row_index": 1,
+          "overridden": false
+        }
+      ],
+      "Morgunfréttir útvarps": [
+        {
+          "name": "Brynjólfur Þór Guðmundsson",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        }
+      ],
+      "Útvarps- og vefvaktstjórn": [
+        {
+          "name": "Hugrún Hannesdóttir Diego",
+          "shift": "0730-1830",
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Alexander Kristjánsson",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Erla María Markúsdóttir",
+          "shift": null,
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Þorgils Jónsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ],
+      "Vaktstjórar": [
+        {
+          "name": "Sólveig Klara Ragnarsdóttir",
+          "shift": null,
+          "row_index": 0,
+          "overridden": false
+        },
+        {
+          "name": "Stígur Helgason",
+          "shift": null,
+          "row_index": 1,
+          "overridden": false
+        },
+        {
+          "name": "Höskuldur Kári Schram",
+          "shift": "0830-2000",
+          "row_index": 2,
+          "overridden": false
+        },
+        {
+          "name": "Magnús Geir Eyjólfsson",
+          "shift": null,
+          "row_index": 3,
+          "overridden": false
+        }
+      ]
+    }
+  }
+}
